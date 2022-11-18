@@ -1,7 +1,10 @@
-# ???
-Both the repo and account seems to have been deleted. I reopened it. Let's carry on exposing facts about Chinese cyber workers! 
 
 # WorkingTime
+
+## 需要更多的维护者
+这个项目的repo和account被项目负责人删除了。我亲自注册，亲自fork了fork了本项目的repo。我有空就亲自维护，大家提交PR我来合并，或者请提issue参与成为本仓库的管理者。
+
+## 以下为项目负责人治时期的内容：
 
 ## 最后的声明 2021/10/28
 
